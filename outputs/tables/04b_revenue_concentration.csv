@@ -1,0 +1,6 @@
+top_customers_pct,customers,orders,share_revenue_pct,min_revenue_tnd_in_group,avg_orders_per_customer
+1,6237,135266,12.59,1434.2,21.69
+5,31183,366330,31.7,642.2,11.75
+10,62366,541276,45.14,412.0,8.68
+20,124732,768988,61.65,243.2,6.17
+50,311830,1152662,85.36,87.8,3.7

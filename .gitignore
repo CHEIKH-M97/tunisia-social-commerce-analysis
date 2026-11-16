@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------
+# PRIVATE DATA - never commit. Only code, charts and aggregated
+# tables (outputs/tables) are allowed in this repository.
+# ---------------------------------------------------------------
+data/
+.secrets/
+.env
+
+# Block every data file by default...
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.json
+*.feather
+*.pkl
+*.db
+*.sqlite
+
+# ...then allow only the reviewed, aggregated outputs and public references
+!outputs/tables/*.csv
+!reference/*.csv
+
+# Python / tooling
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS clutter
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Carousel slide previews duplicate the charts and the PDF
+outputs/carousel/slides/
+
+# Local draft, posted on LinkedIn rather than kept in the repo
+linkedin_post.md

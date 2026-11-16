@@ -1,0 +1,7 @@
+channel,orders,share_orders_pct,revenue_tnd,share_revenue_pct,mean_basket,median_basket,p25_basket,p75_basket,customers,top_price_share_pct
+TikTok Live,957783,64.08,75070280,63.51,78.4,58.0,37.8,92.6,398286,2.0
+Facebook Page,367019,24.55,28367960,24.0,77.3,62.8,37.8,87.8,246937,5.9
+Instagram,148042,9.9,12665785,10.72,85.6,86.0,47.8,87.8,116401,17.2
+Website (Shopify),4946,0.33,437809,0.37,88.5,67.4,37.8,108.6,3070,3.5
+Unknown,16922,1.13,1659156,1.4,98.0,71.0,46.0,127.0,14063,4.5
+All sales,1494712,100.0,118200989,100.0,79.1,62.8,37.8,87.8,623661,3.9

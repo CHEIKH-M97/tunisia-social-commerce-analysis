@@ -1,0 +1,6 @@
+bucket,customers,orders,median_basket,share_customers_pct,share_orders_pct,share_revenue_pct
+1 order,354764,354764,62.8,56.88,23.73,22.26
+2 orders,113850,227700,62.6,18.26,15.23,14.82
+3-5 orders,103796,380243,62.0,16.64,25.44,25.56
+6-10 orders,36054,266014,62.8,5.78,17.8,18.48
+11+ orders,15197,265991,63.2,2.44,17.8,18.89
